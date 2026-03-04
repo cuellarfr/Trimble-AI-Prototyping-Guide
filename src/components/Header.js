@@ -1,11 +1,13 @@
-import React from 'react';
+import React from "react";
 
 export default function Header() {
   return (
     <header className="app-header">
       <span className="header-title">AI Prototyping Guide</span>
       <div className="header-right">
-        <span className="header-team">Last updated by the Savvy Design team on Feb 23, 9:18 AM EST</span>
+        <span className="header-team">
+          Last updated by the Trimble Platform Team on March 3rd, 5:12 PM PST
+        </span>
       </div>
     </header>
   );
